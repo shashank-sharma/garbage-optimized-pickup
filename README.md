@@ -1,27 +1,13 @@
 # Garbage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+This project is used to help driver take optimized route to pick up the garbage and at the end of this it will help him to dump all the garbage at his final destination.
 
-## Development server
+It uses Mapbox Optimization API and Angular 5/6
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Explanation
 
-## Code scaffolding
+You can find the written guide in my [blog](https://wordpress.com/post/mythicalpython.wordpress.com/34)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Example:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<img src="https://mythicalpython.files.wordpress.com/2018/10/ezgif-com-video-to-gif.gif">
