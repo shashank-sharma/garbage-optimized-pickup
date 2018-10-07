@@ -10,4 +10,4 @@ You can find the written guide in my [blog](https://wordpress.com/post/mythicalp
 
 ### Example:
 
-<img src="https://mythicalpython.files.wordpress.com/2018/10/ezgif-com-video-to-gif.gif">
+<img src="https://i.stack.imgur.com/lRvWv.gif">
